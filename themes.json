@@ -1,10 +1,1 @@
-{"nord": 
-    ["/home/gabriel/.config/.Xresources:/home/gabriel/stuff/stm/nord/.Xresources", 
-    "/home/gabriel/.config/bspwm/bspwmrc:/home/gabriel/stuff/stm/nord/bspwmrc", 
-    "/home/gabriel/.config/polybar/config:/home/gabriel/stuff/stm/nord/config"], 
-
-"gruv": 
-    ["/home/gabriel/.config/.Xresources:/home/gabriel/stuff/stm/gruv/.Xresources", 
-    "/home/gabriel/.config/bspwm/bspwmrc:/home/gabriel/stuff/stm/gruv/bspwmrc", 
-    "/home/gabriel/.config/polybar/config:/home/gabriel/stuff/stm/gruv/config"]
-}
+{}
