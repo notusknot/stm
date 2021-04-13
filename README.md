@@ -2,7 +2,7 @@
 ## _The best way to manage complex rices_
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://img.shields.io/github/license/notusknot/stm)]
 
 STM is a command-line tool for storing and easily switching between many different complex sets of configurations. 
 It is easy to use and support any window manager or software you may use, as long as it has a configuration file.
