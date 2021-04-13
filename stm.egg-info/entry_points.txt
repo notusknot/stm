@@ -1,0 +1,4 @@
+
+    [console_scripts]
+    stm=stm.cli:cli
+    
